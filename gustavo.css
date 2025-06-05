@@ -4,3 +4,9 @@
   font-weight: 500;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Gustavo Regular';
+  src: url('https://cdn.jsdelivr.net/gh/coinedgepro/gustavo-font/Gustavo-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
